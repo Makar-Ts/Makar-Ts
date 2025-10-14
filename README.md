@@ -1,100 +1,77 @@
 <div align="center">
-  <h1>Hi 👋, I'm Makar Ts (mostly known as addLove)</h1>
-  <h3>A junior web developer</h3>
+
+# 👋 Hello, I'm Makar Ts (aka addLove)
+
+### A Passionate Junior Full-Stack Web Developer from Russia
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/makar_ts)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/makargrom)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:addlove.makar+github@gmail.com)
+
 </div>
 
+---
 
-🔭 **Currently working on:** [Metrocraft 2036](https://metrocraft36.com/)  
-🌱 **Currently learning:** NextJS, Angular, NestJS
+## 🚀 About Me
 
-<br/><br/>
-## 🔗 Connect with me
-- **Discord**: @makargrom
-- **Telegram**: [@makar_ts](https://t.me/makar_ts)
-- **Email**: addlove.makar+github@gmail.com
+I'm a passionate and motivated junior developer focused on building modern web applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions. I am currently expanding my expertise in full-stack development and am always open to new challenges and opportunities for growth.
 
-<br/><br/>
-## 🛠️ Languages and Tools
+- 🔭 **Currently working on:** **[Metrocraft 2036](https://metrocraft36.com/)**
+- 🌱 **Currently learning & deepening my knowledge in:** `NextJS`, `Angular`, `NestJS`
+- 💬 **Ask me about:** JavaScript, TypeScript, React, Node.js
+- 📫 **How to reach me:** `addlove.makar+github@gmail.com` or Telegram [@makar_ts](https://t.me/makar_ts)
 
-#### 📋 Languages
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-</p>
+---
 
-#### 🎨 Frontend & Styling
-<p>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-</p>
+## 🛠️ My Tech Stack
 
-#### ⚙️ Backend & Runtime
-<p>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
-  </a>
-</p>
+### **Programming Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 🗃️ Databases
-<p>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-</p>
+### **Frontend Development**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### 🎮 Other Tools
-<p>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>
-</p>
+### **Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<br/><br/>
-## Stats
+### **Other Tools**
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
+---
+
+## 📈 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=makar-ts&show_icons=true&theme=cobalt&locale=en" alt="makar-ts" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=makar-ts" alt="makar-ts" />
+
+![Makar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=makar-ts&show_icons=true&theme=cobalt&hide_border=true&locale=en)
+
+<!-- Генерирует полоску с "днями без простоя" — добавляет динамики -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=makar-ts")
+
+<!-- Показывает график активности за последний год -->
+[![Makar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=makar-ts&custom_title=Makar's%20Contribution%20Graph&theme=react-dark&hide_border=true)](https://github.com/makar-ts)
+
 </div>
 
-<br/><br/>
+---
+
+<div align="center">
+
+### Thanks for stopping by! 😊
+
 <img src="https://media1.tenor.com/m/2jU2Y8X8-WkAAAAd/colon-three-kitty.gif" alt=":3" width="100" height="100" />
+
+</div>

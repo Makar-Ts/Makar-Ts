@@ -73,5 +73,6 @@ I'm a passionate and motivated junior developer focused on building modern web a
 ### Thanks for stopping by! 😊
 
 <img src="https://media1.tenor.com/m/2jU2Y8X8-WkAAAAd/colon-three-kitty.gif" alt=":3" width="100" height="100" />
+<img src="https://cdn.discordapp.com/attachments/1430938013487071322/1431627109343826030/daf44c6c-d950-415c-ba63-2eaeb36500d8.gif?ex=68fe1a25&is=68fcc8a5&hm=39199489b34ada614926435eea08016c932cb2b4ef7c131ca6a007be3fe44ebb&" alt="ts" width="130" height="100" />
 
 </div>
